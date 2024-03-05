@@ -63,10 +63,10 @@ a {
 .header-address-item {
     
 }
-.header-address-item :hover {
+.header-item-link :hover {
     color: #404bbf;
 }
-.header-address-item :focus {
+.header-item-link :focus {
     color: #404bbf;
 }
 
