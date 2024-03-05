@@ -1,5 +1,7 @@
 body {
     font-family: "Roboto" ,sans-serif;
+    color: #434455;
+    border-color: #FFFFFF;
 
 }
 ul {
@@ -22,11 +24,11 @@ a {
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #2e2f42;
+        color: #4d5ae5;
 }
 
 .header-logo span {
-    color: #4d5ae5;
+    color: #2e2f42;
 }
 
 .header-list {}
@@ -38,6 +40,16 @@ a {
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
+
+.header-item-link {
+    color: #2e2f42;
+}
+
+li a :hover {
+    color: #404bbf;
+}
+li a :focus
+
 
 .header-address {}
 
@@ -60,19 +72,17 @@ a {
 .hero-title {
     font-weight: 700;
         font-size: 56px;
-        line-height: 1.07143;
+        line-height: 1.07;
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
 }
 
 .hero-btn {
-    border-radius: 4px;
-        padding: 16px 32px;
-        width: 169px;
-        height: 56px;
+    
+       
 
-        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+       
             background: #4d5ae5;
 }
 
@@ -124,7 +134,6 @@ a {
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
-        text-align: center;
         color: #2e2f42;
 }
 
@@ -133,7 +142,6 @@ a {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        text-align: center;
         color: #434455;
 }
 
@@ -167,8 +175,6 @@ font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-transform: capitalize;
-    text-align: center;
     color: #2e2f42;
 }
 
