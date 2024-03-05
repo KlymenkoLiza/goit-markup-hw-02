@@ -62,10 +62,10 @@ a {
 .header-address-item {
     
 }
-.header-item-link:hover {
+.header-address-link:hover {
     color: #404bbf;
 }
-.header-address-item:focus {
+.header-address-link:focus {
     color: #404bbf;
 }
 
