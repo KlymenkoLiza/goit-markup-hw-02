@@ -45,11 +45,11 @@ a {
     color: #2e2f42;
 }
 
-.header-item-link :hover {
+.header-item a :hover {
     color:#404bbf;
 }
 
-.header-item-link :focus {
+.header-item a :focus {
     color:#404bbf;
 }
 
@@ -66,7 +66,7 @@ a {
 .header-item-link :hover {
     color: #404bbf;
 }
-.header-item-link :focus {
+.header-address-item :focus {
     color: #404bbf;
 }
 
