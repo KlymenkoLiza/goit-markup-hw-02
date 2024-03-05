@@ -44,11 +44,11 @@ a {
     color: #2e2f42;
 }
 
-.header-item a:hover {
+.header-item-link:hover {
     color:#404bbf;
 }
 
-.header-item a:focus {
+.header-item-link:focus {
     color:#404bbf;
 }
 
